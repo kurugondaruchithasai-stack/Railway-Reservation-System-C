@@ -1,0 +1,5 @@
+*.exe
+*.out
+bookings.txt
+waitlist.txt
+trains.txt
